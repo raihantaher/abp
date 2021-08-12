@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// hello
+
 namespace Volo.Abp.AspNetCore.Components.Alerts
 {
     public class AlertList : ObservableCollection<AlertMessage>
